@@ -15,5 +15,5 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.facebook.react:react-native:0.20.+'
-    implementation 'com.github.DmitriyChernenkoDev:CustomizeCharts:cw-2.4.0.19'
+    implementation 'com.github.DmitriyChernenkoDev:CustomizeCharts:cw-2.4.0.35'
 }
